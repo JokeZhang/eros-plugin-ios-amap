@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.authors      = { "xionghuayu" => "18601949015@163.com" }
   s.platform     = :ios
   s.ios.deployment_target = "8.0"
-  s.source = { :git => 'https://github.com/bmfe/eros-plugin-ios-amap.git', :tag => s.version.to_s }
+  s.source = { :git => 'https://github.com/JokeZhang/eros-plugin-ios-amap.git', :tag => s.version.to_s }
 
   s.source_files = "Source/*.{h,m,mm}"
   s.resources = 'Resources/*'
