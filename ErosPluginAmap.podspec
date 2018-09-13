@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.dependency 'AMap3DMap-NO-IDFA','6.4.0'
   s.dependency 'AMapSearch-NO-IDFA'
-  s.dependency 'AMapLocation-NO-IDFA
+  s.dependency 'AMapLocation-NO-IDFA'
   s.dependency 'WeexSDK'
   s.dependency 'SDWebImage', '3.7.6'
 end
